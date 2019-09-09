@@ -1,6 +1,6 @@
 **About me:**
 
-![Alt Text](https://media.discordapp.net/attachments/286804267275386890/616136954572046336/FB_IMG_1566968890566.jpg?width=670&height=670)
+![Alt Text](https://media.discordapp.net/attachments/286804267275386890/616136954572046336/FB_IMG_1566968890566.jpg?width=350&height=350)
 
 
 My name is Jenna Wenn my email is jennawenn7@gmail.com and my student number is s3816643. My nationality is Australian, British and Irish. My culture is Australian. I have completed year 12 and was awarded my Western Certificate of Education, I also have a Certificate II in Sampling & Measurement and my Certificate III in Business Administration. I have very basic language knowledge of Indonesian and Japanese. I love anime, gaming and almost every fantasy movie ever from Harry Potter to Lord of The Rings. I moved from Perth to Brisbane and have been to Japan once but would like to go back next year for the 2020 Olympics. I also do recreational shooting at a range though I’m not good.
