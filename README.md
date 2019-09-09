@@ -23,15 +23,15 @@ This position is an entry level position for assisting in making a “Data Manag
 
 **Online test results:**
 ***Results from Myers-Briggs test:***
-*ENFJ-Very good match*
-*INFJ-Very good match*
-*ESFJ-Good match*
+1. ENFJ-Very good match
+2. INFJ-Very good match
+3. ESFJ-Good match
 ***Results of learning style test:***
-*Auditory 40%*
-*Visual 35%*
-*Tactile 25%*
+1. Auditory 40%
+2. Visual 35%
+3. Tactile 25%
 ***Results of creativity test:***
-*65.53*
+1. 65.53
 this test helped me by highlighting the key points of my personality being compassionate, learning better with auditory aids and with these strengths I should aim to do more group work and have a level of understanding when someone can not make it one night, my auditory learning style will also be valuable for online study and participating in an online group as it means I will take on information better. I should take these strengths and use them to my benefit, if I fall behind on a group project I can get the aspects explained to me by another team member and still be able to understand what they are completing and as for my compassionate side I would be able to return the favour. As for the creativity test I have the ability to carry large quantities of information which means I would be able to absorb what needs to be done and discuss it with my team.
 
 **Project idea:**
