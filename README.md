@@ -22,16 +22,16 @@ https://www.seek.com.au/job/39824163?searchrequesttoken=2ec62559-2a68-4ce3-b764-
 This position is an entry level position for assisting in making a “Data Management System”. This role also means that I would be able to further my software making skills once finished at RMIT. The product is ever-changing and the company (Moonwalk) also award you with ownership of substantial products once you complete others. This position also offers career development and room for growth, due to the nature of being able to work on multiple aspects of the software suite you would be able to expand your knowledge in various aspects of software development, such as programming languages/database design. This interests me as id be able to improve my programming abilities and knowledge in programming as well as furthering my career path. The requirements are not extensive for this job however they are hard to achieve meaning not just anybody can apply for the job and get it, you are required to have knowledge in computer science or a degree, excellent written and verbal skills not just over the phone or to coworkers but in the important emails you send and you must also have proficiency in Java, C or C++ which means that this would eliminate any errors or bugs that might occur if someone without this knowledge that is required got this position. As it currently is I have expert level written and verbal skills, while this is indeed one of the requirements of this job I don’t currently have the other two. My plan to achieve the other two requirements is to complete my study at RMIT and learn the wacky and temperamental language that is programming. As for my written and verbal i hope to better it, while typos are inevitable I’d like to reduce them dramatically and I believe working on assignments will help me.
 
 **Online test results:**
-Results from Myers-Briggs test: 
-ENFJ-Very good match
-INFJ-Very good match
-ESFJ-Good match
-Results of learning style test:
-Auditory 40%
-Visual 35%
-Tactile 25%
-Results of creativity test:
-65.53
+-**Results from Myers-Briggs test:** 
+-ENFJ-Very good match
+-INFJ-Very good match
+-ESFJ-Good match
+-**Results of learning style test:**
+-Auditory 40%
+-Visual 35%
+-Tactile 25%
+-**Results of creativity test:**
+-65.53
 this test helped me by highlighting the key points of my personality being compassionate, learning better with auditory aids and with these strengths I should aim to do more group work and have a level of understanding when someone can not make it one night, my auditory learning style will also be valuable for online study and participating in an online group as it means I will take on information better. I should take these strengths and use them to my benefit, if I fall behind on a group project I can get the aspects explained to me by another team member and still be able to understand what they are completing and as for my compassionate side I would be able to return the favour. As for the creativity test I have the ability to carry large quantities of information which means I would be able to absorb what needs to be done and discuss it with my team.
 
 **Project idea:**
